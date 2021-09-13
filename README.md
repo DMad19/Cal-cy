@@ -1,0 +1,1 @@
+This is a web application of calc for everyday life :CAL-cy
